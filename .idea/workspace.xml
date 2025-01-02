@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25dd9159-6305-4396-b925-0a7598864744" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/threads/BinaryTreeSizeCalculator/BinaryTreeHeightCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/BinaryTreeSizeCalculator/BinaryTreeSizeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/BinaryTreeSizeCalculator/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/ProblemOfSync/AdderSubtractor/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/ProblemOfSync/AdderSubtractor/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/ProblemOfSync/AdderSubtractor/ProblemOfSyncClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/ProblemOfSync/AdderSubtractor/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/ProblemOfSync/ProducerConsumer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/ProblemOfSync/ProducerConsumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/ProblemOfSync/ProducerConsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/AddreSubtractor/Mutex/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/AddreSubtractor/Mutex/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/AddreSubtractor/Mutex/MutexClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/AddreSubtractor/Mutex/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/AddreSubtractor/SynchronizeBlock/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/AddreSubtractor/SynchronizeBlock/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/AddreSubtractor/SynchronizeBlock/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/AddreSubtractor/SynchronizeBlock/SynchronizedBlockClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/ProducerConsumer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/ProducerConsumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/ProducerConsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/Threadexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zeta-Repositories/.idea/Zeta-Repositories.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zeta-Repositories/Deployment/UATDeployemnt/.idea/UATDeployemnt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignments/assignment2_lakshaychi1919_credit-management" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qGOIdUa6KUxsqjHmLIsfbY0wJS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Threadexample.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "/Users/lakshay.ch/Desktop/Personal Work/LLD/src/threads/Synchoronization/Solutions",
+    "onboarding.tips.debug.path": "/Users/lakshay.ch/Desktop/Personal Work/LLD/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/threads/Synchoronization/Solutions" />
+      <recent name="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/SynchronizeBlock" />
+      <recent name="$PROJECT_DIR$/src/threads/Synchoronization/Solutions/Mutex" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LLD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemOfSyncClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.Synchoronization.ProblemOfSync.AdderSubtractor.ProblemOfSyncClient" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.Synchoronization.ProblemOfSync.AdderSubtractor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Threadexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.Threadexample" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Threadexample" />
+        <item itemvalue="Application.ProblemOfSyncClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25dd9159-6305-4396-b925-0a7598864744" name="Changes" comment="" />
+      <created>1734285369482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734285369482</updated>
+    </task>
+    <servers />
+  </component>
+</project>

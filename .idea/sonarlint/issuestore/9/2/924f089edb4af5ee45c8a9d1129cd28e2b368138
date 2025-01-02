@@ -1,0 +1,9 @@
+
+7
+java:S1220""Move this file to a named package.8ŠÕÈÀ2
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ğÌ£±Â2
+]	java:S125
+"<This block of commented-out lines of code should be removed.(à˜Ø¾úÿÿÿÿ8”ŠÕÈÀ2
+•
+java:S1128"xRemove this unused import 'threads.Synchoronization.Solutions.AddreSubtractor.SynchronizeBlock.SynchronizedBlockClient'.(˜›÷ú8ıÌ£±Â2

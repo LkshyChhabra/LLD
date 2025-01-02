@@ -1,0 +1,7 @@
+
+g	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¸¶ÌÈÀ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ÃŒùÿÿÿÿ8º¶ÌÈÀ2
+{
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Î¶ÌÈÀ2
+X	java:S125"<This block of commented-out lines of code should be removed.(ª¯¤©8áúğÊÀ2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÒÔÆ±úÿÿÿÿ8òèşÈÀ2

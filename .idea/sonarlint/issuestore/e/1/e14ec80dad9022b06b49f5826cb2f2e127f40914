@@ -1,0 +1,8 @@
+
+m
+java:S1104"PMake left a static final constant or non-public and provide accessors if needed.(ó÷ÔÄ8‹ÅûÛ¼2
+n
+java:S1104"QMake right a static final constant or non-public and provide accessors if needed.(Ö¢è¥8‹ÅûÛ¼2
+l
+java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8‹ÅûÛ¼2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…°®˜8ğö„Ì½2

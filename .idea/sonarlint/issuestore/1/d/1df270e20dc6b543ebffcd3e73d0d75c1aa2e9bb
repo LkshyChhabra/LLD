@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8×þ…¹À2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ûÒô8Úþ…¹À2
+l
+java:S3981"JThe size of "queue" is always ">=0", so update this test to use isEmpty().(†çƒ¤øÿÿÿÿ8îþ…¹À2
+G	java:S106"+Replace this use of System.out by a logger.(¯Ô¥€8ïþ…¹À2
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Õæ‡°ùÿÿÿÿ8ïþ…¹À2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ðþ…¹À2
